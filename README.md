@@ -18,7 +18,7 @@ Bencmark results and analysis of the multi-thread algorithms can be found in `re
 Implementation of the multi-threaded algorithms can be found in `src/adventure.h` inside the class `Adventure` where sequential implementations are in its sublcass `LonesomeAdventure` while the multi-threaded ones are in `TeamAdventure`.
 - fucntion `packEggs()` implements 0-1 Knapsack Problem 
 - fucntion `arrangeSand()` implements QuickSort
-- fucntion `selectBestCrystal` implements Max in array
+- fucntion `selectBestCrystal()` implements Max in array
 
 
 
