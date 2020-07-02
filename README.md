@@ -11,7 +11,7 @@ Sequential algorithms for the following three problems in C++ will be used:
 
 ## Performance Gains
 
-Bencmark results and analysis of the multi-thread algorithms can be found in `report.pdf`.
+Bencmark results and analysis of the multi-thread algorithms can be found in [report.pdf](https://github.com/gavjan/shamans/blob/master/report.pdf).
 
 ## Implementation
 
@@ -19,7 +19,3 @@ Implementation of the multi-threaded algorithms can be found in `src/adventure.h
 - fucntion `packEggs()` implements 0-1 Knapsack Problem 
 - fucntion `arrangeSand()` implements QuickSort
 - fucntion `selectBestCrystal()` implements Max in array
-
-
-
-
